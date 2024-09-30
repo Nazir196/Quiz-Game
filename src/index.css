@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.correct{
+    background-color: rgba(144, 238, 144, 0.503);
+    color: black;
+    border-color: green;
+}
+
+.wrong{
+    background-color: rgba(244, 112, 112, 0.43);
+    color: black;
+    border-color: green;
+}
